@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/*.min.css" />
+        @*asp-href-include="bower_components/bootstrap/dist/*.min.css"
+        asp-href-exclude="bower_components/bootstrap/dist/*-grid*.css"/>*@
+    <title>Home Library</title>
+</head>
+<body>
+    <div class="navbar navbar-inverse bg-inverse" role="navigation">
+        <a class="navbar-brand" href="#">Home Library</a>
+    </div>
+    <div class="row m-1 p-1">
+        <div id="categories" class="col-3">
+            Coś tu później napiszemy
+        </div>
+        <div class="col-9">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>

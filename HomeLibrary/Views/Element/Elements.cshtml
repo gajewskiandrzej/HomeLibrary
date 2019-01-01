@@ -1,0 +1,12 @@
+﻿@model ElementsListViewModel
+
+@foreach (var p in Model.Elements)
+{
+    <div>
+        <h3>@p.Title</h3>
+        @p.Description
+        <h4>@p.Status</h4>
+    </div>
+}
+
+<div page-model="@Model.PagingInfo" page-action="Elements"></div>
