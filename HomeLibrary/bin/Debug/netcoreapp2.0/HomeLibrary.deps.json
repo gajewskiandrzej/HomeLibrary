@@ -5141,7 +5141,7 @@
     "Microsoft.CodeAnalysis.Common/2.3.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-W3rdClTnJL46eMT/fjZGLDcVkyPzVmbnv9uRZuZUr62FPq9Y7sbsUhHWe+rr9KuOeWxT1/u3QacXQ3dmAjr74w==",
+      "sha512": "sha512-EveBUvavpZ0za8ZGzJwwMWW56lyuSYheExUKFt7hxLDaBaSaNp1OpLtzgn+p8/VpkCl8RsUdt4aEB+0oPCvh2Q==",
       "path": "microsoft.codeanalysis.common/2.3.1",
       "hashPath": "microsoft.codeanalysis.common.2.3.1.nupkg.sha512"
     },
@@ -5393,7 +5393,7 @@
     "Microsoft.Extensions.FileProviders.Abstractions/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-S01tSv3cVyOrIDtQFi2hFohrXAFSYS4zjIcEgwRNKCBQfEscjWyFcDMaAKSFIavCt6ALxssDZ8PbQpK3klU2HA==",
+      "sha512": "sha512-Y2R7L0FGA9G8Hc6eMlsm0SPfHFsrriHvmc8MM1g0z5dzR5VtVxQKHsnPBoQYYUVZVzlgWxiaybk9M71TpEQzFQ==",
       "path": "microsoft.extensions.fileproviders.abstractions/2.0.0",
       "hashPath": "microsoft.extensions.fileproviders.abstractions.2.0.0.nupkg.sha512"
     },
@@ -5414,14 +5414,14 @@
     "Microsoft.Extensions.FileProviders.Physical/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2x4RTUP15C0F36KKfFgOu+vSHge30ZctfNowdk32/xjGONhYnyxxtEvyyd6+0Ugglw+MYOjfdh5txLV4ldtN+Q==",
+      "sha512": "sha512-r4fBl7aqcAhxhnqJztyE7ToR80jPHnDagLEK9JcdEwcZPz/x3zUYwyGBMvwjGWM0ivCQBQiTB2WY4+q/PAAkLQ==",
       "path": "microsoft.extensions.fileproviders.physical/2.0.0",
       "hashPath": "microsoft.extensions.fileproviders.physical.2.0.0.nupkg.sha512"
     },
     "Microsoft.Extensions.FileSystemGlobbing/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-wQUa9yUoU9K8E3kn4J5Xw+cgHLzu1RV6U7JH7Be3gTQE+uBW/J8F8CZi9KpqQ7SKwTcjRaVLjbp86288VXkriA==",
+      "sha512": "sha512-H2IER+b3vLsTItCZ8w+Hp66XNc56Y2TU23kUU/ywV1io+mdXty4VMEkFDUxKsY9eJlxZ5NBDpiC+nXR5fThw1w==",
       "path": "microsoft.extensions.filesystemglobbing/2.0.0",
       "hashPath": "microsoft.extensions.filesystemglobbing.2.0.0.nupkg.sha512"
     },
@@ -5547,7 +5547,7 @@
     "Microsoft.Extensions.Primitives/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-RyhLFJoMszfbu1rz/gzoqvOrdgsnXxk0B/M4fKjsJdb6/I3t2MdVq4s1dWs8hOXKjcq26ovsLL1UPLowTsaTcQ==",
+      "sha512": "sha512-AMyFwlYdEY4GjjCFGQhUr1/0ZZyYyNjjpCx8Vwfy+Ylxv8pn649uaX5J2L7aknEtQY5+XA+TSfxRSBCgy68yvQ==",
       "path": "microsoft.extensions.primitives/2.0.0",
       "hashPath": "microsoft.extensions.primitives.2.0.0.nupkg.sha512"
     },
@@ -5659,7 +5659,7 @@
     "Remotion.Linq/2.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
+      "sha512": "sha512-m9y+SLyqYEDcc3lnqAHO2VOsdIeDuO02IuBXeo7CIDve2J3ahXQRieZt2DuoXgCnWW83PgN6+8CQsaORlwAMXw==",
       "path": "remotion.linq/2.1.1",
       "hashPath": "remotion.linq.2.1.1.nupkg.sha512"
     },
@@ -6219,7 +6219,7 @@
     "System.Runtime.CompilerServices.Unsafe/4.4.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0D85ti9IcUxWql213d4WE+f2JjNzRzHmEaG34qiA3hD7G8O4i0Mgr+Rutkn4pmrbrW+ABY4vzpECgHmdw+vTjQ==",
+      "sha512": "sha512-oXzVVwwsT4sfWRzOEKaHn6GLleNZ7gGTjk+gHgLuXj3M61p3TjoAvWmZDJDeDuf0WX8UW4ew0MTJbJOmCSZrVA==",
       "path": "system.runtime.compilerservices.unsafe/4.4.0",
       "hashPath": "system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
     },
@@ -6457,7 +6457,7 @@
     "System.ValueTuple/4.4.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-hBl0/yPqtMnwrsqCYSxYr4Abvo9hSVYmf+55EniEMyCEPJRM1VGr8o+kHeHJdEqgr6wrQMhZ7HowYmejruXStg==",
+      "sha512": "sha512-6FvjECwwsvwtdnm2uD91MlFEgId6C2SWsdZk23gFpynHQ9x5ruqjsfEadb0VNzpkEHDQ6cq31CXUv3ouT09EHA==",
       "path": "system.valuetuple/4.4.0",
       "hashPath": "system.valuetuple.4.4.0.nupkg.sha512"
     },
@@ -6513,7 +6513,7 @@
     "Microsoft.NETCore.App/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-aEj44yEbsK+XlDwPNSM7CeaYDg33NMk492y2kFRIOMPOVmXvXNO0LTDm8lUhS4Jlm2uNFsIDDH4ggt9lnSDejQ==",
+      "sha512": "sha512-8Lrz5RgmfIUMtpTmGG1Z+nVlCr14bFco/aQdiNYfb7uys37vQ6dVtds9xPIFANVyf6HFePhD9nGmqFcfv5eKMQ==",
       "path": "microsoft.netcore.app/2.0.0",
       "hashPath": "microsoft.netcore.app.2.0.0.nupkg.sha512"
     },
@@ -6527,14 +6527,14 @@
     "Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-RAMrQqBFMiF4dbpHJEvcwwXG+ISoKRck8zXlfr49waPc7xllEpv/ANHi4c3pCTkVIdNNSdDYf71YjbkaRSHJgg==",
+      "sha512": "sha512-uYoVFwvMIp9KtOjW6huBedoBP+50Pny0aIrmJGPoaHJ9anAtrvCjS+iKFR5MIS8amJRKsLc3YEtpT/AYfYmIdA==",
       "path": "microsoft.netcore.dotnethostpolicy/2.0.0",
       "hashPath": "microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512"
     },
     "Microsoft.NETCore.DotNetHostResolver/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LrZ1AcFJF7+da03Is+5RKdqjnDVNnoi1MBRAi4LRif3uO9rRntfNUezeNcG/OO/yGYzyEwGJkioyw8ZWGJiKWg==",
+      "sha512": "sha512-HYXxywd3EaAw1M2K5ox6oUu0NgG90oDIpyq70IBvOf2keNuMJWYTWZUAoTlpv8E0Ks09DA+gczoA64tCdII5Xw==",
       "path": "microsoft.netcore.dotnethostresolver/2.0.0",
       "hashPath": "microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512"
     },
@@ -6548,7 +6548,7 @@
     "NETStandard.Library/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-49ZAcrnNn56GIJwGoiaI7NpwcEJ8mjUyfSqVYIJMDhOBzPe8HSHS74swF2H0v8fzj7pxLfcYjS9P5PdIqsTQxw==",
+      "sha512": "sha512-sn4JwjEN5iNfqc0bd0Qje5oBZBB9wyuNn4GkQvEzfKVnZ3QH0HHoN9exxydlJGptiCMVdAZu7At9TNj0r8Z0yg==",
       "path": "netstandard.library/2.0.0",
       "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
     }

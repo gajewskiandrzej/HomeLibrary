@@ -2,11 +2,10 @@
 
 @foreach (var p in Model.Elements)
 {
-    <div>
-        <h3>@p.Title</h3>
-        @p.Description
-        <h4>@p.Status</h4>
-    </div>
+    @Html.Partial("ElementSummary", p)
 }
 
-<div page-model="@Model.PagingInfo" page-action="Elements"></div>
+<div page-model="@Model.PagingInfo" page-action="Elements" page-classes-enabled="true"
+    page-class="btn" page-class-normal="btn-secondary"
+    page-class-selected="btn-primary" class="btn-group m-1">
+</div>

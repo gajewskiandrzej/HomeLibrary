@@ -13,3 +13,14 @@ F:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcore
 F:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcoreapp2.0\HomeLibrary.dll
 F:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcoreapp2.0\HomeLibrary.pdb
 F:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcoreapp2.0\HomeLibrary.csprojAssemblyReference.cache
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\bin\Debug\netcoreapp2.0\HomeLibrary.deps.json
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\bin\Debug\netcoreapp2.0\HomeLibrary.runtimeconfig.json
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\bin\Debug\netcoreapp2.0\HomeLibrary.runtimeconfig.dev.json
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\bin\Debug\netcoreapp2.0\HomeLibrary.dll
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\bin\Debug\netcoreapp2.0\HomeLibrary.pdb
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcoreapp2.0\HomeLibrary.csprojAssemblyReference.cache
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcoreapp2.0\HomeLibrary.csproj.CoreCompileInputs.cache
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcoreapp2.0\HomeLibrary.AssemblyInfoInputs.cache
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcoreapp2.0\HomeLibrary.AssemblyInfo.cs
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcoreapp2.0\HomeLibrary.dll
+D:\IPI\2 Semestr\Aplikacje internetowe\HomeLibrary\HomeLibrary\obj\Debug\netcoreapp2.0\HomeLibrary.pdb

@@ -1,0 +1,14 @@
+﻿body {
+}
+
+.logo{
+    font-size:34px;
+}
+
+.status{
+    float:right;
+}
+
+.description p{
+    margin-bottom:0px;
+}

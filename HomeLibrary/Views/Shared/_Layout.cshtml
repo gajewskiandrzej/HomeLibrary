@@ -3,20 +3,25 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/*.min.css" />
-        @*asp-href-include="bower_components/bootstrap/dist/*.min.css"
-        asp-href-exclude="bower_components/bootstrap/dist/*-grid*.css"/>*@
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="~/lib/css/style.css" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
     <title>Home Library</title>
 </head>
 <body>
-    <div class="navbar navbar-inverse bg-inverse" role="navigation">
-        <a class="navbar-brand" href="#">Home Library</a>
-    </div>
+    <nav class="navbar navbar-dark bg-primary">
+        <a class="navbar-brand logo" href="#">Home Library</a>
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </nav>
     <div class="row m-1 p-1">
-        <div id="categories" class="col-3">
+        <div id="categories" class="col-2">
             Coś tu później napiszemy
         </div>
-        <div class="col-9">
+        <div class="col-10">
             @RenderBody()
         </div>
     </div>
